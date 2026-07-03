@@ -9,18 +9,18 @@ removes duplicate records where necessary, and exports the final dataset
 to a formatted Excel workbook.
 
 TECHNOLOGIES
-Python
-Modules
-requests
-BeautifulSoup (bs4)
-pandas
-openpyxl
-pathlib
+- Python
+- Modules
+- requests
+- BeautifulSoup (bs4)
+- pandas
+- openpyxl
+- pathlib
 
 FEATURES
-Scrapes data from multiple pages
-Extracts structured book information
-Handles pagination automatically
-Cleans and processes the scraped data
-Removes duplicate records
-Exports the results to an Excel file
+- Scrapes data from multiple pages
+- Extracts structured book information
+- Handles pagination automatically
+- Cleans and processes the scraped data
+- Removes duplicate records
+- Exports the results to an Excel file
